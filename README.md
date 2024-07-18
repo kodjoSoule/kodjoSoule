@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm Souleymane KODJO, a passionate software develo
 - 💬 Ask me about **Java, Angular, Spring Boot, and API development**.
 - 📫 How to reach me: 
   - 📧 Email: [souleymanekodjo@gmail.com](mailto:souleymanekodjo@gmail.com)
-  - 📱 Phone: +221 77 5958693
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex problems and participating in hackathons.
 
